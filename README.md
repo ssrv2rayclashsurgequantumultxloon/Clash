@@ -46,4 +46,23 @@ surge_ruleset=🅱️️ 哔哩哔哩港澳台番,rules/ACL4SSR/Clash/BilibiliHM
 
 surge_ruleset=📲 电报信息,rules/ACL4SSR/Clash/Telegram.list
 
-surge_ruleset=🚀 
+urge_ruleset =🚀 
+custom_proxy_group =🎧Spotify`select` []🚀决策选择.. *
+
+custom_proxy_group =Ⓜ️微软服务`select` []🎯全球直连`[]🚀子系统选择`。*
+
+custom_proxy_group =📲电报信息`select` []🚀议员选择`[]🎯全球直连`。*
+
+custom_proxy_group =🍎苹果服务`select` []🚀议员选择`[]🎯全球直连`。*
+
+custom_proxy_group =🎯全球直连`select` [] DIRECT` []🚀议员选择`。*
+
+custom_proxy_group =🛑全球拦截`select` [] REJECT` [] DIRECT
+
+custom_proxy_group =🍃应用净化`select` [] REJECT` [] DIRECT
+
+custom_proxy_group =🐟漏网之鱼`select` []🚀中继选择`[]🎯全球直连`。*
+
+enable_rule_generator = true
+
+overwrite_original_rules = true
