@@ -8,7 +8,7 @@
 
  surge_ruleset=📲 电报信息,rules/ACL4SSR/Clash/Telegram.list
 
- custom_proxy_group =🎧Spotify`select` []🚀决策选择.. *
+custom_proxy_group =🎧Spotify `select`  [] 🚀决策选择.. *
 
 
 enable_rule_generator = true
